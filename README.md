@@ -6,6 +6,6 @@
 ![kiosk_Screen](https://user-images.githubusercontent.com/93318468/139366277-d7e9e122-3b3e-4942-b018-c97b836d7276.jpg)
 
 +: 1잔 추가 <br>
--: 1잔 취소 <br> 
+-: 1잔 취소(0개일 경우 주문창에서 사라짐) <br> 
 계산: 가격을 계산해 총액에 가격을 표시 <br>
 취소: 선택한 메뉴가 사라지고 원상태로 돌아감
