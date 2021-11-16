@@ -3,7 +3,7 @@
 
 # 실행결과
 
-![kiosk_Screen](https://user-images.githubusercontent.com/93318468/139366277-d7e9e122-3b3e-4942-b018-c97b836d7276.jpg)
+![kiosk](https://user-images.githubusercontent.com/92361061/141885933-33b84150-4736-4878-969a-1872a7e0535a.png)
 
 +: 1잔 추가 <br>
 -: 1잔 취소(0개일 경우 주문창에서 사라짐) <br> 
